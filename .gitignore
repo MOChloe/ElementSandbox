@@ -1,0 +1,22 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE and local workspace files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# The prebuilt MillionSettlement seed under WorldSeeds/ is intentionally tracked.
